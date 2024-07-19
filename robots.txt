@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://picurbine.github.io/sitemap
+Sitemap: https://picurbine.github.io/app/sitemap
+Sitemap: https://picurbine.github.io/assets/sitemap
+Sitemap: https://picurbine.github.io/css/sitemap
+Sitemap: https://picurbine.github.io/includes/sitemap
+Sitemap: https://picurbine.github.io/item/sitemap
+Sitemap: https://picurbine.github.io/src/sitemap
